@@ -1,0 +1,4 @@
+victor,victor24,123,Administrador,32206
+emilio,emilio12,1234,Administrador,566
+Andres,andres12,123,Administrador,62353
+Juan camilo Mejia Morales,Juan123,1234,Administrador,98681
